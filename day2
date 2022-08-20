@@ -1,0 +1,19 @@
+Write a difference between document and window object
+
+WINDOW OBJECT
+
+The window object represent an open window in a browser
+  
+  if a document contain frames,the browser creates one window object for the html document and one
+  additional window object for each frame
+  
+  
+  DOCUMENT OBJECT
+  
+  When an html document is loaded into a web browser , it becomes a document object
+  
+  The document object is the root node of the html document
+  
+  The document object is a property of the window object
+  
+  The document object is accessed with
